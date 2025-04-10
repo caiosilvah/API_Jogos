@@ -52,7 +52,7 @@ namespace ProjetoDeJogos.Repository
         {
             try
             {
-                return _context.Jogo.ToList();
+                
             }
             catch (Exception)
             {

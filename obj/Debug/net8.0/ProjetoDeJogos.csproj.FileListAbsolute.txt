@@ -165,3 +165,4 @@ C:\Users\47836585875\Desktop\Projeto Jogos (API revisao)\ProjetoDeJogos\obj\Debu
 C:\Users\47836585875\Desktop\Projeto Jogos (API revisao)\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.pdb
 C:\Users\47836585875\Desktop\Projeto Jogos (API revisao)\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.genruntimeconfig.cache
 C:\Users\47836585875\Desktop\Projeto Jogos (API revisao)\ProjetoDeJogos\obj\Debug\net8.0\ref\ProjetoDeJogos.dll
+C:\Users\47836585875\Desktop\Projeto Jogos (API revisao)\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.sourcelink.json
